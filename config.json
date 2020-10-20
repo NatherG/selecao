@@ -1,0 +1,71 @@
+{
+    "header_link": [
+        {
+            "title": "Welcome to Selecao",
+            "subTitle": "Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.",
+            "btn": {
+                "name": "Read More",
+                "link": "http://azuriom/"
+            }
+        },
+        {
+            "title": "Welcome to Selecao1",
+            "subTitle": "Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.",
+            "btn": {
+                "name": "Read More",
+                "link": "http://azuriom/"
+            }
+        },
+        {
+            "title": "Welcome to Selecao2",
+            "subTitle": "Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.",
+            "btn": {
+                "name": "Read More",
+                "link": "http://azuriom/"
+            }
+        },
+        {
+            "title": "qsdqsdq",
+            "subTitle": "qsdqdsq",
+            "btn": {
+                "name": "qsdqd",
+                "link": "http://test.fr"
+            }
+        },
+        {
+            "title": "Le titre de Oufff",
+            "subTitle": "Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.",
+            "btn": {
+                "name": "Click",
+                "link": "http://test.fr"
+            }
+        }
+    ],
+    "footer_link": {
+        "twitter": {
+            "name": "twitter",
+            "link": "https://twitter.com/",
+            "active": "0"
+        },
+        "facebook": {
+            "name": "facebook",
+            "link": "https://www.facebook.com/",
+            "active": "0"
+        },
+        "discord": {
+            "name": "discord",
+            "link": "https://discord.gg/hQxHFZ",
+            "active": "1"
+        },
+        "skype": {
+            "name": "skype",
+            "link": "https://www.skype.com/fr/",
+            "active": "1"
+        },
+        "instagram": {
+            "name": "instagram",
+            "link": "https://www.instagram.com/",
+            "active": "1"
+        }
+    }
+}
