@@ -1547,8 +1547,6 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: #14151c;
-  position:absolute;
-  bottom:0;
   color: #fff;
   font-size: 14px;
   text-align: center;
